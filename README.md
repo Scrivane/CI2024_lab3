@@ -9,7 +9,7 @@ As you can see in the table this Firstcut alghorithm maneged to find the solutio
 
 results 
 
-| Dimension | Number of Random Steps | Seed  | Firstcut | Moves | Evaluated |
+| Dimension | Number of Random Steps | Seed  | Firstcut | Quality | Cost |
 |-----------|-------------------------|-------|----------|------|-----------|
 | 3x3       | 100003                 | 43242 | no       | 24   | 679       |
 | 4x4       | 100003                 | 43242 | yes      | 69   | 230221    |
